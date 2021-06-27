@@ -1,0 +1,13 @@
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\bin\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.exe
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\bin\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.deps.json
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\bin\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.runtimeconfig.json
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\bin\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.runtimeconfig.dev.json
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\bin\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.dll
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\bin\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.pdb
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.csprojAssemblyReference.cache
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.AssemblyInfoInputs.cache
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.AssemblyInfo.cs
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.csproj.CoreCompileInputs.cache
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.dll
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.pdb
+C:\Users\tugra\Desktop\calismalar\Github\Text-Base-Rpg-Console-Game\Text-Based-Rpg-Consoel-Game\Text-Based-Rpg-Consoel-Game\obj\Debug\netcoreapp3.1\Text-Based-Rpg-Consoel-Game.genruntimeconfig.cache

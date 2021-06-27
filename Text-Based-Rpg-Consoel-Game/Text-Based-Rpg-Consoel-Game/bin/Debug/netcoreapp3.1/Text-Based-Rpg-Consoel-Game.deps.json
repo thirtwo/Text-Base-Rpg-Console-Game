@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Text-Based-Rpg-Consoel-Game/1.0.0": {
+        "runtime": {
+          "Text-Based-Rpg-Consoel-Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Text-Based-Rpg-Consoel-Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
