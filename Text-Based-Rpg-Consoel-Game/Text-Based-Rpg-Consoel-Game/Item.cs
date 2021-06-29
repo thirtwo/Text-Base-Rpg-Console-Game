@@ -43,6 +43,10 @@ namespace Text_Based_Rpg_Consoel_Game.Items
                 else
                     return "Thrash";
             }
+            private set
+            {
+                itemName = value;
+            }
         }
 
         private float itemBuyPrice;
@@ -101,9 +105,9 @@ namespace Text_Based_Rpg_Consoel_Game.Items
 
         public Item(string itemName, float itemBuyPrice, int itemSolidity)
         {
-            this.itemName = itemName;
-            this.itemBuyPrice = itemBuyPrice;
-            this.itemSolidity = itemSolidity;
+            ItemName = itemName;
+            ItemBuyPrice = itemBuyPrice;
+            ItemSolidity = itemSolidity;
         }
     }
 
