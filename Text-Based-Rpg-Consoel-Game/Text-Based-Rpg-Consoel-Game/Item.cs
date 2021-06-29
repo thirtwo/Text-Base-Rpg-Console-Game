@@ -14,6 +14,24 @@ namespace Text_Based_Rpg_Consoel_Game.Items
                 return isActive;
             }
         }
+        private int level = 1;//as defalut
+
+        public int Level
+        {
+            get { return level; }
+            set
+            {
+                if (level < 1)
+                {
+                    level = 1;
+                }
+                else
+                {
+                    level = value;
+                }
+            }
+        }
+
         private string itemName;
 
         public string ItemName
@@ -33,7 +51,7 @@ namespace Text_Based_Rpg_Consoel_Game.Items
         {
             get
             {
-                return itemBuyPrice * itemSolidity * 0.01f;
+                return itemBuyPrice * itemSolidity * 0.01f * level;
             }
             set
             {
@@ -46,7 +64,7 @@ namespace Text_Based_Rpg_Consoel_Game.Items
             get
             {
                 if (isActive)
-                    return itemBuyPrice * 0.5f * itemSolidity * 0.01f;
+                    return itemBuyPrice * 0.5f * itemSolidity * 0.01f * level;
                 else
                     return 0;
             }
@@ -89,5 +107,5 @@ namespace Text_Based_Rpg_Consoel_Game.Items
         }
     }
 
-   
+
 }

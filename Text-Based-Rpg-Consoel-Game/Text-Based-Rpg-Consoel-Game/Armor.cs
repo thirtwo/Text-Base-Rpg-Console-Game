@@ -4,34 +4,31 @@ using System.Text;
 
 namespace Text_Based_Rpg_Consoel_Game.Items
 {
-    class Weapon : Item
+    class Armor : Item
     {
-        private float damage;
+        private float armour;
 
-        public float Damage
+        public float Armour
         {
-            get { return damage * Level; }
+            get { return armour * Level; }
             set
             {
-                if (damage <= 0)
+                if (armour <= 0)
                 {
-                    damage = 0.1f;
+                    armour = 0;
                 }
                 else
                 {
-                    damage = value;
+                    armour = value;
                 }
             }
         }
 
 
-        public Weapon(string itemName, float itemBuyPrice, int itemSolidity, float damage)
+        public Armor(string itemName, float itemBuyPrice, int itemSolidity, float armour)
             : base(itemName, itemBuyPrice, itemSolidity)
         {
-            Damage = damage;
+            Armour = armour;
         }
-
-
-
     }
 }
